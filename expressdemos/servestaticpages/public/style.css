@@ -1,0 +1,16 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.title {
+    color: rebeccapurple;
+    size: 25px;
+}
+
+.Littitle{
+    color: blue;
+    size: 14px;
+}
